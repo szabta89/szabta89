@@ -22,4 +22,4 @@ You can find my complete publication list on [Google Scholar](https://scholar.go
 
 ## Contact
 
-Either send me an [e-mail](mailto:szabta89@github.com) or look me up on [twitter](https://x.com/szabta89) if you want to connect.
+Either send me an [e-mail](mailto:szabta89@github.com) or look me up on [X](https://x.com/szabta89) if you want to connect.
