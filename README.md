@@ -4,8 +4,7 @@ Engineer in academia and researcher in industry. I have worn two hats all along 
 I have done my PhD studies in computer science while working in industry. I graduated in 2021 from JGU Mainz. 
 My PhD advisor was [Sebastian Erdweg](https://www.pl.informatik.uni-mainz.de/erdweg/), and I was a member of 
 the [Programming Languages Research Group](https://www.pl.informatik.uni-mainz.de/). Currently, I work as a staff 
-research engineer at [GitHub Next](https://githubnext.com/), which is the research division of GitHub exploring the future of software engineering. 
-My professional interests are mostly centered around programming language design and implementation, static analysis, 
+software/research engineer for GitHub. My professional interests are mostly centered around programming language design and implementation, static analysis, 
 and all things related to (AI-assisted) developer tooling.
 
 Prior to GitHub, I have worked as a principal engineer in the language engineering team of Workday. 
